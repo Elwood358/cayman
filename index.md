@@ -2,21 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+You can be choose to be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to a life lesson](https://www.youtube.com/watch?v=M8cgK4Wykjg).
 
-There should be whitespace between paragraphs.
+There should be whitespace between your goals and wishes
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Shining and Grinding
 
-# Header 1
+You gotta grind hard to shine hard. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Its already known
 
-## Header 2
-
-> This is a blockquote following a header.
+> I didn't even have to adjust this part below, the creators of cayman theme already know the deal.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
@@ -37,87 +35,82 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### How to Sleep
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   YOU DONT!
+*   Billionares never sleep
+*   Sleep for billionares
+*   Make sense right!
 
-##### Header 5
+##### The Process
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Grind
+2.  Work
+3.  Repeat
 
-###### Header 6
+###### It's Simple
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Goal                      | How                                   | Status       |
+|:--------------------------|:--------------------------------------|:-------------|
+| Grind like the `greatest` | Examine the greatest and grind harder | In progress  |
+| Work like the `greatest`  | Examine the greatest and work harder  | In progress  |
+| Be the `greatest`         | Watch it all boil down                | Already done |
 
 ### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+### Tips to sucess:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   When you want to succeed as bad as you want to breathe, then you'll be sucessful
+*   Failure is not an option
+*   In order for you to succeed, your desire for success should be greater than your fear of failure
 
-### And an ordered list:
+### Daily Schedule:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Wake up
+1.  Grind
+1.  Power nap
+1.  Repeat
 
-### And a nested list:
+### Priorites:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- The Grind
+  - Working
+  - Grinding
+    - Giving 100%
+    - Being the greatest
+- Wasting time
+  - Sleeping
+  - Having fun
+  - Anything not working
 
 ### Small image
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![modeOn](https://static1.squarespace.com/static/585b74dd6b8f5b18cf943012/t/5a729e25c8302573ec2b7232/1517461036904/Grind+Mode.jpg)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![TheExample](https://i.ytimg.com/vi/82TEZ9iL0mk/maxresdefault.jpg)
 
 
-### Definition lists can be used with HTML syntax.
+### Defining you with HTML.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>You</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>Whenever</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>The prophecy</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Bright</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+"If you really want to do something, you'll find a way. If you don't, you'll find an excuse." -- Jim Rohn
 ```
 
 ```
-The final element.
+The Final Decision. What will you do?
 ```
