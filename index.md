@@ -107,7 +107,7 @@ end
 <dd>Bright</dd>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RwDObj0m2aU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </dl>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RwDObj0m2aU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ```
 "If you really want to do something, you'll find a way. If you don't, you'll find an excuse." -- Jim Rohn
 ```
