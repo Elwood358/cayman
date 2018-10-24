@@ -38,8 +38,8 @@ end
 #### How to Sleep
 
 *   YOU DONT!
-*   Billionares never sleep
-*   Sleep for billionares
+*   Billionaires never sleep
+*   Sleep is for billionaires
 *   Make sense right!
 
 ##### The Process
