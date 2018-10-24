@@ -50,7 +50,7 @@ end
 
 ###### It's Simple
 
-| Goal                      | How                                   | Status       |
+| Goal            | How                                   | Status       |
 |:--------------------------|:--------------------------------------|:-------------|
 | Grind like the `greatest` | Examine the greatest and grind harder | In progress  |
 | Work like the `greatest`  | Examine the greatest and work harder  | In progress  |
