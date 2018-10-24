@@ -56,7 +56,7 @@ end
 | Work like the `greatest`  | Examine the greatest and work harder  | In progress  |
 | Be the `greatest`         | Watch it all boil down                | Already done |
 
-### There's a horizontal rule below this.
+### There's a horizontal rule your failures.
 
 * * *
 
@@ -106,7 +106,7 @@ end
 <dt>Color</dt>
 <dd>Bright</dd>
 </dl>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RwDObj0m2aU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
 "If you really want to do something, you'll find a way. If you don't, you'll find an excuse." -- Jim Rohn
 ```
